@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.env
+service-account.json
+*.log
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+# Railway
+.railway/
+railway.toml
