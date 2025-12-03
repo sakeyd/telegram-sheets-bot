@@ -17,3 +17,8 @@ service-account.json
 # Railway
 .railway/
 railway.toml
+.env
+*.json
+service-account*.json
+credentials.json
+key.json
